@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification.Api", "Notification.Api\Notification.Api.csproj", "{9848C0CE-7D6A-4AA0-887F-4A68490297E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification.Client", "Notification.Client\Notification.Client.csproj", "{93DD5FE5-A29A-4053-B3ED-32B8E2771058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9848C0CE-7D6A-4AA0-887F-4A68490297E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9848C0CE-7D6A-4AA0-887F-4A68490297E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9848C0CE-7D6A-4AA0-887F-4A68490297E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9848C0CE-7D6A-4AA0-887F-4A68490297E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DD5FE5-A29A-4053-B3ED-32B8E2771058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DD5FE5-A29A-4053-B3ED-32B8E2771058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DD5FE5-A29A-4053-B3ED-32B8E2771058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DD5FE5-A29A-4053-B3ED-32B8E2771058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1273AD45-C091-47F0-9FC9-0E7414C939A8}
+	EndGlobalSection
+EndGlobal
