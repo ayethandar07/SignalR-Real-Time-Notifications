@@ -24,7 +24,7 @@
 <p></p>
 <div class="codehilite">
 <pre><code> 
-git clone https://github.com/your-repo/SignalR-RealTime-Notifications.git
+git clone https://github.com/ayethandar07/SignalR-Real-Time-Notifications.git
 </code></pre>
 </div>
 
