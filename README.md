@@ -55,4 +55,4 @@ dotnet restore
 </ul>
 
 <h3> Contact </h3>
-<p> For questions or feedback, please contact athandar1998@gmail.com. </p>
+<p> For questions or feedback, please contact <a href="athandar1998@gmail.com"> athandar1998@gmail.com.</a> </p>
