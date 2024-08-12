@@ -54,5 +54,5 @@ dotnet restore
   <li>Connection Problems: Verify that the SignalR hub URL is correct and that the server is running.</li>
 </ul>
 
-<h5> Contact </h5>
+<h3> Contact </h3>
 <p> For questions or feedback, please contact athandar1998@gmail.com. </p>
